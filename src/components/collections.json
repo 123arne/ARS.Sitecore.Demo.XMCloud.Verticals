@@ -10,43 +10,6 @@
     "components": [
       {
         "libraryId": "generated",
-        "id": "bP5HBEel-b",
-        "collectionId": "EfQDdUxRmd",
-        "name": "Large teaser",
-        "description": "",
-        "status": "changed",
-        "versionCount": 1,
-        "stagedVersionCount": 1,
-        "embeddableVersionCount": 1,
-        "datasourceIds": [],
-        "createdAt": "2023-06-08T09:12:34.113Z",
-        "stagedAt": null,
-        "publishedAt": "2023-06-08T13:06:24.758Z",
-        "modifiedAt": "2025-01-15T10:20:16.91Z",
-        "modifiedBy": {
-          "id": "63f7759f1510c28ecd9cdf9f",
-          "name": "Arne Schlüter",
-          "email": "arne.schlueter@sitecore.com",
-          "picture": "https://s.gravatar.com/avatar/94b922968976a142695e1c5ea21fb619?s=480&r=pg&d=https%3A%2F%2Fcdn.auth0.com%2Favatars%2Far.png",
-          "givenName": "Arne",
-          "familyName": "Schlüter"
-        },
-        "bundles": [
-          {
-            "id": "responsive",
-            "libraryId": "generated",
-            "componentId": "bP5HBEel-b",
-            "name": "Default bundle",
-            "description": "",
-            "breakpoints": {},
-            "orderIdx": "",
-            "createdAt": "2025-01-15T10:20:16.684Z",
-            "modifiedAt": "2025-01-15T10:20:16.684Z"
-          }
-        ]
-      },
-      {
-        "libraryId": "generated",
         "id": "MCzUv9T7CV",
         "collectionId": "EfQDdUxRmd",
         "name": "Teaser",
@@ -60,6 +23,31 @@
         "stagedAt": null,
         "publishedAt": "2023-06-08T13:06:57.252Z",
         "modifiedAt": "2023-06-08T13:06:57.252Z",
+        "modifiedBy": {
+          "id": "62f3ba1cba5df761961e5a78",
+          "name": "Sintija Potaicuka",
+          "email": "sintija.potaicuka@sitecore.com",
+          "picture": "https://s.gravatar.com/avatar/377f12a848dbd6e352920bce2685c063?s=480&r=pg&d=https%3A%2F%2Fcdn.auth0.com%2Favatars%2Fsi.png",
+          "givenName": "Sintija",
+          "familyName": "Potaicuka"
+        },
+        "bundles": []
+      },
+      {
+        "libraryId": "generated",
+        "id": "bP5HBEel-b",
+        "collectionId": "EfQDdUxRmd",
+        "name": "Large teaser",
+        "description": "",
+        "status": "published",
+        "versionCount": 1,
+        "stagedVersionCount": 1,
+        "embeddableVersionCount": 2,
+        "datasourceIds": [],
+        "createdAt": "2023-06-08T09:12:34.113Z",
+        "stagedAt": null,
+        "publishedAt": "2023-06-08T13:06:24.758Z",
+        "modifiedAt": "2023-06-08T13:06:24.758Z",
         "modifiedBy": {
           "id": "62f3ba1cba5df761961e5a78",
           "name": "Sintija Potaicuka",
@@ -95,7 +83,7 @@
         "createdAt": "2023-06-08T09:27:58.572Z",
         "stagedAt": null,
         "publishedAt": "2023-06-08T14:31:06.461Z",
-        "modifiedAt": "2025-01-13T15:21:45.531Z",
+        "modifiedAt": "2025-01-15T13:54:55.555Z",
         "modifiedBy": {},
         "bundles": []
       },
@@ -134,34 +122,6 @@
     "orderIdx": null,
     "createdAt": "2023-06-28T12:45:53.685Z",
     "modifiedAt": "2023-06-28T12:45:53.685Z",
-    "components": [
-      {
-        "libraryId": "generated",
-        "id": "GGcLo2CS4-",
-        "collectionId": "default",
-        "name": "CR Hero",
-        "description": "",
-        "status": "published",
-        "versionCount": 1,
-        "stagedVersionCount": 1,
-        "embeddableVersionCount": 2,
-        "datasourceIds": [
-          "d885df8cb2d64007b34b2bbafb527304"
-        ],
-        "createdAt": "2023-06-08T09:12:34.113Z",
-        "stagedAt": "2025-01-15T10:23:42.055Z",
-        "publishedAt": "2025-01-15T10:23:42.055Z",
-        "modifiedAt": "2025-01-15T10:23:42.055Z",
-        "modifiedBy": {
-          "id": "63f7759f1510c28ecd9cdf9f",
-          "name": "Arne Schlüter",
-          "email": "arne.schlueter@sitecore.com",
-          "picture": "https://s.gravatar.com/avatar/94b922968976a142695e1c5ea21fb619?s=480&r=pg&d=https%3A%2F%2Fcdn.auth0.com%2Favatars%2Far.png",
-          "givenName": "Arne",
-          "familyName": "Schlüter"
-        },
-        "bundles": []
-      }
-    ]
+    "components": []
   }
 ]
