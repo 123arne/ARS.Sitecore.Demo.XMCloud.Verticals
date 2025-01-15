@@ -48,6 +48,7 @@ $hamburger-margin: 18px;
         > a {
           border-width: 0;
           font-weight: bold;
+          color: white;
         }
       }
     }
@@ -68,8 +69,8 @@ $hamburger-margin: 18px;
       .dark & {
         .button-nav-item a {
           background-color: var(--text-body);
-          color: var(--bg-body);
-
+          //color: var(--bg-body);
+          color: white;
           &:hover {
             filter: brightness(85%);
           }
