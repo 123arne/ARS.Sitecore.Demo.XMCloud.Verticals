@@ -1,0 +1,27 @@
+﻿---
+ID: "ce41955c-ae56-4814-b227-5971d0c277e5"
+Parent: "c317e8c4-d118-480d-be41-0d4cdcec81b4"
+Template: "0da7aa52-0c24-4721-9b6c-f6d8d9faaaa0"
+Path: /sitecore/content/Verticals/Financial/Presentation/Partial Designs/CR Header/Data/Header
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "4870e0dc-7dfd-4024-aea3-13054c0487e5"
+- Language: "fr-CA"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "dacbc099-20fe-463e-8fac-576a54b64945"
+- Language: "ja-JP"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "dacbc099-20fe-463e-8fac-576a54b64945"

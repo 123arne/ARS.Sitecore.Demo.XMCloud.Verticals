@@ -1,0 +1,107 @@
+[
+  {
+    "libraryId": "generated",
+    "id": "I3fASAL9CU",
+    "componentId": "GGcLo2CS4-",
+    "name": "Main",
+    "description": "",
+    "status": "published",
+    "orderIdx": "03qKK",
+    "revision": 25,
+    "model": "",
+    "view": "<style data-format-version=\"30\">/* Type: grid Id: custom-grid Title: Custom grid Instance Id: iPl25cqPdI */ .-grid--custom[data-instance-id=\"iPl25cqPdI\"]:not(._._._._._._#_) { ---self--display: grid; display: var(---self--display); grid-template-rows: minmax(36px,36px) minmax(36px,36px) minmax(36px, auto) minmax(36px,36px) minmax(36px,36px); grid-template-columns: minmax(0px,1fr) minmax(0px,1fr) minmax(0px,1fr) minmax(0px,1fr) minmax(0px,1fr) minmax(0px,1fr) minmax(0px,1fr) minmax(0px,1fr) minmax(0px,1fr) minmax(0px,1fr) minmax(0px,1fr) minmax(0px,1fr); row-gap: var(---spacing--row-gap); column-gap: var(---spacing--column-gap); } .-grid--custom[data-instance-id=\"iPl25cqPdI\"] > :nth-child(1):not(._._._._._._#_) { grid-column: 1; grid-column-end: 6; grid-row: 1; grid-row-end: 4; order: 0; position: relative; } /* Data: {\"type\":\"grid\",\"details\":{\"title\":\"Custom grid\",\"description\":\"\",\"id\":\"custom-grid\",\"exampleContent\":null,\"slug\":\"custom\",\"isInternal\":true,\"isHidden\":true,\"instanceId\":\"iPl25cqPdI\"},\"props\":{\"columns\":[{\"min\":{\"value\":0,\"unit\":\"px\"},\"max\":{\"value\":1,\"unit\":\"fr\"}},{\"min\":{\"value\":0,\"unit\":\"px\"},\"max\":{\"value\":1,\"unit\":\"fr\"}},{\"min\":{\"value\":0,\"unit\":\"px\"},\"max\":{\"value\":1,\"unit\":\"fr\"}},{\"min\":{\"value\":0,\"unit\":\"px\"},\"max\":{\"value\":1,\"unit\":\"fr\"}},{\"min\":{\"value\":0,\"unit\":\"px\"},\"max\":{\"value\":1,\"unit\":\"fr\"}},{\"min\":{\"value\":0,\"unit\":\"px\"},\"max\":{\"value\":1,\"unit\":\"fr\"}},{\"min\":{\"value\":0,\"unit\":\"px\"},\"max\":{\"value\":1,\"unit\":\"fr\"}},{\"min\":{\"value\":0,\"unit\":\"px\"},\"max\":{\"value\":1,\"unit\":\"fr\"}},{\"min\":{\"value\":0,\"unit\":\"px\"},\"max\":{\"value\":1,\"unit\":\"fr\"}},{\"min\":{\"value\":0,\"unit\":\"px\"},\"max\":{\"value\":1,\"unit\":\"fr\"}},{\"min\":{\"value\":0,\"unit\":\"px\"},\"max\":{\"value\":1,\"unit\":\"fr\"}},{\"min\":{\"value\":0,\"unit\":\"px\"},\"max\":{\"value\":1,\"unit\":\"fr\"}}],\"rows\":[{\"min\":{\"value\":36,\"unit\":\"px\"},\"max\":{\"value\":36,\"unit\":\"px\"}},{\"min\":{\"value\":36,\"unit\":\"px\"},\"max\":{\"value\":36,\"unit\":\"px\"}},{\"min\":{\"value\":36,\"unit\":\"px\"},\"max\":null},{\"min\":{\"value\":36,\"unit\":\"px\"},\"max\":{\"value\":36,\"unit\":\"px\"}},{\"min\":{\"value\":36,\"unit\":\"px\"},\"max\":{\"value\":36,\"unit\":\"px\"}}],\"items\":[{\"from\":{\"row\":1,\"column\":1},\"to\":{\"row\":4,\"column\":6},\"order\":0}]}} */ /* --- */  /* Type: dimensions Id: VqTETXQXkM Instance Id: xEDRbmYiFb */ .-dimensions--[data-instance-id=\"xEDRbmYiFb\"]:not(._._._._._._#_) { max-width: min(var(---self--max-available-width, 100%), var(---self--max-width, 100%)); min-height: 30px; max-height: 30px; } /* Data: {\"type\":\"dimensions\",\"details\":{\"title\":\"\",\"description\":\"\",\"id\":\"VqTETXQXkM\",\"exampleContent\":null,\"instanceId\":\"xEDRbmYiFb\"},\"props\":{\"minWidth\":null,\"maxWidth\":null,\"minHeight\":{\"value\":30,\"unit\":\"px\"},\"maxHeight\":{\"value\":30,\"unit\":\"px\"}}} */ </style><section class=\"-grid--custom -has--background\" data-instance-id=\"iPl25cqPdI\" data-path-src=\"d885df8cb2d64007b34b2bbafb527304.Image.src\"><div class=\"-card\"><h2>Unlock creativity: Shape a world of inspired design!</h2><div class=\"-dimensions--\" data-instance-id=\"xEDRbmYiFb\"></div><button>Learn more</button></div><picture class=\"-image--background\"><img src=\"https://feaasstatic.blob.core.windows.net/assets/sample/background.svg\" /></picture></section>",
+    "diff": {},
+    "breakpointIds": null,
+    "datasourceIds": [
+      "d885df8cb2d64007b34b2bbafb527304"
+    ],
+    "isEmbeddable": true,
+    "forkOriginId": null,
+    "forkOriginRevision": 0,
+    "forkedAt": null,
+    "classList": [
+      "-theme--default"
+    ],
+    "createdAt": "2023-06-08T09:12:58.554Z",
+    "deletedAt": null,
+    "modifiedAt": "2025-01-15T10:23:42.055Z",
+    "modifiedBy": {
+      "id": "63f7759f1510c28ecd9cdf9f",
+      "name": "Arne Schlüter",
+      "givenName": "Arne",
+      "familyName": "Schlüter",
+      "email": "arne.schlueter@sitecore.com",
+      "picture": "https://s.gravatar.com/avatar/94b922968976a142695e1c5ea21fb619?s=480&r=pg&d=https%3A%2F%2Fcdn.auth0.com%2Favatars%2Far.png"
+    }
+  },
+  {
+    "libraryId": "generated",
+    "id": "I3fASAL9CU",
+    "componentId": "GGcLo2CS4-",
+    "name": "Main",
+    "description": "",
+    "status": "staged",
+    "orderIdx": "03qKK",
+    "revision": 25,
+    "model": "",
+    "view": "<style data-format-version=\"30\">/* Type: grid Id: custom-grid Title: Custom grid Instance Id: iPl25cqPdI */ .-grid--custom[data-instance-id=\"iPl25cqPdI\"]:not(._._._._._._#_) { ---self--display: grid; display: var(---self--display); grid-template-rows: minmax(36px,36px) minmax(36px,36px) minmax(36px, auto) minmax(36px,36px) minmax(36px,36px); grid-template-columns: minmax(0px,1fr) minmax(0px,1fr) minmax(0px,1fr) minmax(0px,1fr) minmax(0px,1fr) minmax(0px,1fr) minmax(0px,1fr) minmax(0px,1fr) minmax(0px,1fr) minmax(0px,1fr) minmax(0px,1fr) minmax(0px,1fr); row-gap: var(---spacing--row-gap); column-gap: var(---spacing--column-gap); } .-grid--custom[data-instance-id=\"iPl25cqPdI\"] > :nth-child(1):not(._._._._._._#_) { grid-column: 1; grid-column-end: 6; grid-row: 1; grid-row-end: 4; order: 0; position: relative; } /* Data: {\"type\":\"grid\",\"details\":{\"title\":\"Custom grid\",\"description\":\"\",\"id\":\"custom-grid\",\"exampleContent\":null,\"slug\":\"custom\",\"isInternal\":true,\"isHidden\":true,\"instanceId\":\"iPl25cqPdI\"},\"props\":{\"columns\":[{\"min\":{\"value\":0,\"unit\":\"px\"},\"max\":{\"value\":1,\"unit\":\"fr\"}},{\"min\":{\"value\":0,\"unit\":\"px\"},\"max\":{\"value\":1,\"unit\":\"fr\"}},{\"min\":{\"value\":0,\"unit\":\"px\"},\"max\":{\"value\":1,\"unit\":\"fr\"}},{\"min\":{\"value\":0,\"unit\":\"px\"},\"max\":{\"value\":1,\"unit\":\"fr\"}},{\"min\":{\"value\":0,\"unit\":\"px\"},\"max\":{\"value\":1,\"unit\":\"fr\"}},{\"min\":{\"value\":0,\"unit\":\"px\"},\"max\":{\"value\":1,\"unit\":\"fr\"}},{\"min\":{\"value\":0,\"unit\":\"px\"},\"max\":{\"value\":1,\"unit\":\"fr\"}},{\"min\":{\"value\":0,\"unit\":\"px\"},\"max\":{\"value\":1,\"unit\":\"fr\"}},{\"min\":{\"value\":0,\"unit\":\"px\"},\"max\":{\"value\":1,\"unit\":\"fr\"}},{\"min\":{\"value\":0,\"unit\":\"px\"},\"max\":{\"value\":1,\"unit\":\"fr\"}},{\"min\":{\"value\":0,\"unit\":\"px\"},\"max\":{\"value\":1,\"unit\":\"fr\"}},{\"min\":{\"value\":0,\"unit\":\"px\"},\"max\":{\"value\":1,\"unit\":\"fr\"}}],\"rows\":[{\"min\":{\"value\":36,\"unit\":\"px\"},\"max\":{\"value\":36,\"unit\":\"px\"}},{\"min\":{\"value\":36,\"unit\":\"px\"},\"max\":{\"value\":36,\"unit\":\"px\"}},{\"min\":{\"value\":36,\"unit\":\"px\"},\"max\":null},{\"min\":{\"value\":36,\"unit\":\"px\"},\"max\":{\"value\":36,\"unit\":\"px\"}},{\"min\":{\"value\":36,\"unit\":\"px\"},\"max\":{\"value\":36,\"unit\":\"px\"}}],\"items\":[{\"from\":{\"row\":1,\"column\":1},\"to\":{\"row\":4,\"column\":6},\"order\":0}]}} */ /* --- */  /* Type: dimensions Id: VqTETXQXkM Instance Id: xEDRbmYiFb */ .-dimensions--[data-instance-id=\"xEDRbmYiFb\"]:not(._._._._._._#_) { max-width: min(var(---self--max-available-width, 100%), var(---self--max-width, 100%)); min-height: 30px; max-height: 30px; } /* Data: {\"type\":\"dimensions\",\"details\":{\"title\":\"\",\"description\":\"\",\"id\":\"VqTETXQXkM\",\"exampleContent\":null,\"instanceId\":\"xEDRbmYiFb\"},\"props\":{\"minWidth\":null,\"maxWidth\":null,\"minHeight\":{\"value\":30,\"unit\":\"px\"},\"maxHeight\":{\"value\":30,\"unit\":\"px\"}}} */ </style><section class=\"-grid--custom -has--background\" data-instance-id=\"iPl25cqPdI\" data-path-src=\"d885df8cb2d64007b34b2bbafb527304.Image.src\"><div class=\"-card\"><h2>Unlock creativity: Shape a world of inspired design!</h2><div class=\"-dimensions--\" data-instance-id=\"xEDRbmYiFb\"></div><button>Learn more</button></div><picture class=\"-image--background\"><img src=\"https://feaasstatic.blob.core.windows.net/assets/sample/background.svg\" /></picture></section>",
+    "diff": {},
+    "breakpointIds": null,
+    "datasourceIds": [
+      "d885df8cb2d64007b34b2bbafb527304"
+    ],
+    "isEmbeddable": true,
+    "forkOriginId": null,
+    "forkOriginRevision": 0,
+    "forkedAt": null,
+    "classList": [
+      "-theme--default"
+    ],
+    "createdAt": "2023-06-08T09:12:58.554Z",
+    "deletedAt": null,
+    "modifiedAt": "2025-01-15T10:23:42.055Z",
+    "modifiedBy": {
+      "id": "63f7759f1510c28ecd9cdf9f",
+      "name": "Arne Schlüter",
+      "givenName": "Arne",
+      "familyName": "Schlüter",
+      "email": "arne.schlueter@sitecore.com",
+      "picture": "https://s.gravatar.com/avatar/94b922968976a142695e1c5ea21fb619?s=480&r=pg&d=https%3A%2F%2Fcdn.auth0.com%2Favatars%2Far.png"
+    }
+  },
+  {
+    "libraryId": "generated",
+    "id": "I3fASAL9CU",
+    "componentId": "GGcLo2CS4-",
+    "name": "Main",
+    "description": "",
+    "status": "saved",
+    "orderIdx": "03qKK",
+    "revision": 25,
+    "model": "",
+    "view": "<style data-format-version=\"30\">/* Type: grid Id: custom-grid Title: Custom grid Instance Id: iPl25cqPdI */ .-grid--custom[data-instance-id=\"iPl25cqPdI\"]:not(._._._._._._#_) { ---self--display: grid; display: var(---self--display); grid-template-rows: minmax(36px,36px) minmax(36px,36px) minmax(36px, auto) minmax(36px,36px) minmax(36px,36px); grid-template-columns: minmax(0px,1fr) minmax(0px,1fr) minmax(0px,1fr) minmax(0px,1fr) minmax(0px,1fr) minmax(0px,1fr) minmax(0px,1fr) minmax(0px,1fr) minmax(0px,1fr) minmax(0px,1fr) minmax(0px,1fr) minmax(0px,1fr); row-gap: var(---spacing--row-gap); column-gap: var(---spacing--column-gap); } .-grid--custom[data-instance-id=\"iPl25cqPdI\"] > :nth-child(1):not(._._._._._._#_) { grid-column: 1; grid-column-end: 6; grid-row: 1; grid-row-end: 4; order: 0; position: relative; } /* Data: {\"type\":\"grid\",\"details\":{\"title\":\"Custom grid\",\"description\":\"\",\"id\":\"custom-grid\",\"exampleContent\":null,\"slug\":\"custom\",\"isInternal\":true,\"isHidden\":true,\"instanceId\":\"iPl25cqPdI\"},\"props\":{\"columns\":[{\"min\":{\"value\":0,\"unit\":\"px\"},\"max\":{\"value\":1,\"unit\":\"fr\"}},{\"min\":{\"value\":0,\"unit\":\"px\"},\"max\":{\"value\":1,\"unit\":\"fr\"}},{\"min\":{\"value\":0,\"unit\":\"px\"},\"max\":{\"value\":1,\"unit\":\"fr\"}},{\"min\":{\"value\":0,\"unit\":\"px\"},\"max\":{\"value\":1,\"unit\":\"fr\"}},{\"min\":{\"value\":0,\"unit\":\"px\"},\"max\":{\"value\":1,\"unit\":\"fr\"}},{\"min\":{\"value\":0,\"unit\":\"px\"},\"max\":{\"value\":1,\"unit\":\"fr\"}},{\"min\":{\"value\":0,\"unit\":\"px\"},\"max\":{\"value\":1,\"unit\":\"fr\"}},{\"min\":{\"value\":0,\"unit\":\"px\"},\"max\":{\"value\":1,\"unit\":\"fr\"}},{\"min\":{\"value\":0,\"unit\":\"px\"},\"max\":{\"value\":1,\"unit\":\"fr\"}},{\"min\":{\"value\":0,\"unit\":\"px\"},\"max\":{\"value\":1,\"unit\":\"fr\"}},{\"min\":{\"value\":0,\"unit\":\"px\"},\"max\":{\"value\":1,\"unit\":\"fr\"}},{\"min\":{\"value\":0,\"unit\":\"px\"},\"max\":{\"value\":1,\"unit\":\"fr\"}}],\"rows\":[{\"min\":{\"value\":36,\"unit\":\"px\"},\"max\":{\"value\":36,\"unit\":\"px\"}},{\"min\":{\"value\":36,\"unit\":\"px\"},\"max\":{\"value\":36,\"unit\":\"px\"}},{\"min\":{\"value\":36,\"unit\":\"px\"},\"max\":null},{\"min\":{\"value\":36,\"unit\":\"px\"},\"max\":{\"value\":36,\"unit\":\"px\"}},{\"min\":{\"value\":36,\"unit\":\"px\"},\"max\":{\"value\":36,\"unit\":\"px\"}}],\"items\":[{\"from\":{\"row\":1,\"column\":1},\"to\":{\"row\":4,\"column\":6},\"order\":0}]}} */ /* --- */  /* Type: dimensions Id: VqTETXQXkM Instance Id: xEDRbmYiFb */ .-dimensions--[data-instance-id=\"xEDRbmYiFb\"]:not(._._._._._._#_) { max-width: min(var(---self--max-available-width, 100%), var(---self--max-width, 100%)); min-height: 30px; max-height: 30px; } /* Data: {\"type\":\"dimensions\",\"details\":{\"title\":\"\",\"description\":\"\",\"id\":\"VqTETXQXkM\",\"exampleContent\":null,\"instanceId\":\"xEDRbmYiFb\"},\"props\":{\"minWidth\":null,\"maxWidth\":null,\"minHeight\":{\"value\":30,\"unit\":\"px\"},\"maxHeight\":{\"value\":30,\"unit\":\"px\"}}} */ </style><section class=\"-grid--custom -has--background\" data-instance-id=\"iPl25cqPdI\" data-path-src=\"d885df8cb2d64007b34b2bbafb527304.Image.src\"><div class=\"-card\"><h2>Unlock creativity: Shape a world of inspired design!</h2><div class=\"-dimensions--\" data-instance-id=\"xEDRbmYiFb\"></div><button>Learn more</button></div><picture class=\"-image--background\"><img src=\"https://feaasstatic.blob.core.windows.net/assets/sample/background.svg\" /></picture></section>",
+    "diff": {},
+    "breakpointIds": null,
+    "datasourceIds": [
+      "d885df8cb2d64007b34b2bbafb527304"
+    ],
+    "isEmbeddable": true,
+    "forkOriginId": null,
+    "forkOriginRevision": 0,
+    "forkedAt": null,
+    "classList": [
+      "-theme--default"
+    ],
+    "createdAt": "2023-06-08T09:12:58.554Z",
+    "deletedAt": null,
+    "modifiedAt": "2025-01-15T10:23:42.055Z",
+    "modifiedBy": {
+      "id": "63f7759f1510c28ecd9cdf9f",
+      "name": "Arne Schlüter",
+      "givenName": "Arne",
+      "familyName": "Schlüter",
+      "email": "arne.schlueter@sitecore.com",
+      "picture": "https://s.gravatar.com/avatar/94b922968976a142695e1c5ea21fb619?s=480&r=pg&d=https%3A%2F%2Fcdn.auth0.com%2Favatars%2Far.png"
+    }
+  }
+]

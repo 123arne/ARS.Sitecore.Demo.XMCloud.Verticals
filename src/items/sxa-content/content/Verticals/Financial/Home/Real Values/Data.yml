@@ -1,0 +1,18 @@
+﻿---
+ID: "31f25428-5dcf-4a6d-97e2-c6fa65e7c81d"
+Parent: "4072d4e4-8112-458c-9d9e-f6ead05cec32"
+Template: "1c82e550-ebcd-4e5d-8abd-d50d0809541e"
+Path: /sitecore/content/Verticals/Financial/Home/Real Values/Data
+BranchID: "5914dab5-7831-494e-ac68-b9e3a207a42f"
+SharedFields:
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{44BDD51E-0A53-4EB3-AFA6-F91ADC98BDFA}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "d18abdf5-a31d-4220-9fb9-f9febd312055"
