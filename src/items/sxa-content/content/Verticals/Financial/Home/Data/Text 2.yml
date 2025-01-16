@@ -1,0 +1,19 @@
+﻿---
+ID: "5bed7935-4e52-44eb-9714-24f83be44de1"
+Parent: "5109a19b-e647-4ef6-9b82-c6d8645fed58"
+Template: "0a7aa373-5ed1-4e9b-9678-22d3c5faf6df"
+Path: /sitecore/content/Verticals/Financial/Home/Data/Text 2
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "729034fc-24f3-40b7-8fa4-fb49d7de20dd"
+      Hint: Text
+      Value: 
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "a91b87b1-6e51-46db-8ee2-50ef4f3770c8"

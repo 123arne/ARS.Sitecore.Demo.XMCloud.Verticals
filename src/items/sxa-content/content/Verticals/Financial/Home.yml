@@ -304,8 +304,76 @@ Languages:
                 name="ds" />
             </r>
             <r
+              uid="{654C4B49-B268-4EA3-A123-7A2162FA9ECC}">
+              <p:d />
+            </r>
+            <r
+              uid="{36E87C5B-94DF-4C70-827E-E88DCCD07907}">
+              <p:d />
+            </r>
+            <r
               uid="{124106DE-FB02-4B43-A521-A309FC75A5BC}"
               s:ds="a508825a-8c8d-4e61-ae0d-39d37c52d414" />
+            <r
+              uid="{B882746C-C313-4283-8F58-B9402BCF9C6A}">
+              <p:d />
+            </r>
+            <r
+              uid="{D54D53B4-1AA4-4998-9BDF-EB934C32CFB6}">
+              <p:d />
+            </r>
+            <r
+              uid="{633506E7-54D0-4410-9051-72FB4C9FECB4}">
+              <p:d />
+            </r>
+            <r
+              uid="{1A516B9B-CC7B-49C9-A8EB-5BE281A98612}">
+              <p:d />
+            </r>
+            <r
+              uid="{D55CE251-12B1-4C84-9221-D3A0995F1266}"
+              p:after="r[@uid='{124106DE-FB02-4B43-A521-A309FC75A5BC}']"
+              s:ds="local:/Data/Image 3"
+              s:id="{AB2EDBA0-3960-4F12-B765-579DC231894A}"
+              s:par="GridParameters=%7B7465D855-992E-4DC2-9855-A03250DFA74B%7D&amp;FieldNames=%7B406736F9-F24E-4FE6-9CF0-7B9E4587B709%7D&amp;Styles&amp;RenderingIdentifier&amp;CSSStyles=cr-group-image&amp;DynamicPlaceholderId=16"
+              s:ph="headless-main" />
+            <r
+              uid="{93585FE3-086D-4320-A856-0B2D5CB5847D}"
+              p:after="r[@uid='{D55CE251-12B1-4C84-9221-D3A0995F1266}']"
+              s:ds="local:/Data/Text 3"
+              s:id="{9C6D53E3-FE57-4638-AF7B-6D68304C7A94}"
+              s:par="GridParameters=%7B7465D855-992E-4DC2-9855-A03250DFA74B%7D&amp;FieldNames=%7B28195CAE-07A4-40F2-98DA-609BDCD53B01%7D&amp;Styles&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=18"
+              s:ph="headless-main" />
+            <r
+              uid="{BDE3FFCA-88CB-4C1E-A47C-ED1A1A860A5F}"
+              p:after="r[@uid='{93585FE3-086D-4320-A856-0B2D5CB5847D}']"
+              s:ds="d4c65f03-7d05-4817-a10e-4b8e3cd925b0"
+              s:id="{3A9A9D22-C092-4B54-9511-EB202CEABE8D}"
+              s:par="GridParameters=%7B7465D855-992E-4DC2-9855-A03250DFA74B%7D&amp;ButtonStyle=Secondary&amp;FieldNames&amp;Styles&amp;RenderingIdentifier&amp;CSSStyles=invest-cta&amp;DynamicPlaceholderId=17"
+              s:ph="headless-main" />
+            <r
+              uid="{197332C0-353A-41E7-B848-D9765E0F2EA5}"
+              p:after="*[1=2]"
+              s:ds="6b592560-ae91-46e7-b95c-45a9062d5c79"
+              s:id="{3A9A9D22-C092-4B54-9511-EB202CEABE8D}"
+              s:par="GridParameters=%7B7465D855-992E-4DC2-9855-A03250DFA74B%7D&amp;ButtonStyle=Secondary&amp;FieldNames&amp;Styles&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=19"
+              s:ph="headless-main" />
+            <r
+              uid="{0ED2D2C2-E9EF-4E40-B040-6289CB174E03}">
+              <p:d />
+            </r>
+            <r
+              uid="{854DE8CE-208F-494D-B7C8-C1162D00144F}">
+              <p:d />
+            </r>
+            <r
+              uid="{251B0936-4659-4127-9952-52CA5140D803}">
+              <p:d />
+            </r>
+            <r
+              uid="{7EBE6F29-1C6F-4138-8BF9-287ACF0CD530}">
+              <p:d />
+            </r>
           </d>
         </r>
     - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
@@ -316,7 +384,7 @@ Languages:
       Value: Financial
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "482cbde6-3690-466d-9e90-38f3979392a7"
+      Value: "ffa70d9e-cf78-4b4d-a1af-dc9609a16b85"
     - ID: "d77eab5a-d654-445f-b15c-d32283737e1f"
       Hint: Title
       Value: "PLAY! Financial"
