@@ -130,53 +130,5 @@
     "createdAt": "2023-06-28T12:45:53.685Z",
     "modifiedAt": "2023-06-28T12:45:53.685Z",
     "components": []
-  },
-  {
-    "libraryId": "generated",
-    "id": "Gx_1fuUScK",
-    "name": "Commerz Real",
-    "isDefault": false,
-    "orderIdx": "",
-    "createdAt": "2025-01-16T11:41:30.853Z",
-    "modifiedAt": "2025-01-16T11:41:30.853Z",
-    "components": [
-      {
-        "libraryId": "generated",
-        "id": "wPQWe5Bm1q",
-        "collectionId": "Gx_1fuUScK",
-        "name": "CR Group Information",
-        "description": "",
-        "status": "published",
-        "versionCount": 1,
-        "stagedVersionCount": 1,
-        "embeddableVersionCount": 1,
-        "datasourceIds": [],
-        "createdAt": "2025-01-16T11:41:39.345Z",
-        "stagedAt": "2025-01-16T11:45:58.856Z",
-        "publishedAt": "2025-01-16T11:45:58.856Z",
-        "modifiedAt": "2025-01-16T11:45:58.856Z",
-        "modifiedBy": {
-          "id": "63f7759f1510c28ecd9cdf9f",
-          "name": "Arne Schlüter",
-          "email": "arne.schlueter@sitecore.com",
-          "picture": "https://s.gravatar.com/avatar/94b922968976a142695e1c5ea21fb619?s=480&r=pg&d=https%3A%2F%2Fcdn.auth0.com%2Favatars%2Far.png",
-          "givenName": "Arne",
-          "familyName": "Schlüter"
-        },
-        "bundles": [
-          {
-            "id": "responsive",
-            "libraryId": "generated",
-            "componentId": "wPQWe5Bm1q",
-            "name": "Default bundle",
-            "description": "",
-            "breakpoints": {},
-            "orderIdx": "",
-            "createdAt": "2025-01-16T11:41:57.078Z",
-            "modifiedAt": "2025-01-16T11:41:57.078Z"
-          }
-        ]
-      }
-    ]
   }
 ]
