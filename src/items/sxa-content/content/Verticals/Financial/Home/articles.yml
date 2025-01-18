@@ -26,7 +26,7 @@ SharedFields:
 - ID: "df6dc0ca-f8ee-493a-a920-f2b710f08452"
   Hint: BackgroundImage
   Value: |
-    <image mediaid="{10CB9C1E-EDEB-45AE-9598-EAD7CF3B3204}" alt="Blurred background image - fountain pen on notebook" height="" width="" hspace="" vspace="" />
+    <image mediaid="{BA9EBAED-ACA4-4B07-82A3-FBCA1EEA6348}" alt="frankfurt" height="" width="" hspace="" vspace="" />
 - ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
   Hint: __Renderings
   Value: |
@@ -67,7 +67,8 @@ Languages:
       Value: Articles
     - ID: "3d30539f-d403-496a-a512-ac885b1a2f8b"
       Hint: Content
-      Value: "Keep up-to-date with our industry experts"
+      Value: |
+        <div class="ck-content"><p><span style="color:hsl(0, 0%, 0%);">We are a leading asset manager for real estate and renewables in Europe.</span></p></div>
     - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
       Hint: __Workflow state
       Value: "{171CCFD4-8543-428E-9A9B-8E6557E63B6D}"
@@ -76,7 +77,7 @@ Languages:
       Value: Articles
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "d9b4ba6c-80c1-461f-ae50-aad50bf29a69"
+      Value: "8ca54bfe-30fe-4256-b352-71e317000012"
 - Language: "fr-CA"
   Fields:
   - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
