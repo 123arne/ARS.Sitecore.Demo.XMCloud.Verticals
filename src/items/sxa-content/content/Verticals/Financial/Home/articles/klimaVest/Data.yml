@@ -1,0 +1,13 @@
+﻿---
+ID: "2c07334c-35eb-4fc0-913e-559cb864ef5f"
+Parent: "1e0d4642-355b-4803-aeef-b3dfc6ed366a"
+Template: "1c82e550-ebcd-4e5d-8abd-d50d0809541e"
+Path: /sitecore/content/Verticals/Financial/Home/articles/klimaVest/Data
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "268042e5-7ab2-46c3-b223-a66c3e8c8639"

@@ -1,0 +1,97 @@
+﻿---
+ID: "1e0d4642-355b-4803-aeef-b3dfc6ed366a"
+Parent: "0b45c71d-61ae-44f3-9f7d-6c88185f0b15"
+Template: "f83ccefd-fc41-4a60-9882-8f7ea5cf41a8"
+Path: /sitecore/content/Verticals/Financial/Home/articles/klimaVest
+SharedFields:
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{63CC4D0D-63F1-4BFB-BF63-7EC9D231AFA8}"
+- ID: "ba2b872d-f67d-40dc-be41-6366b7030144"
+  Hint: Thumbnail
+  Value: |
+    <image src="https://ch-ars-1.sitecoresandbox.cloud/api/public/content/3248215c94934b4c931645d503760c6d?v=85885903" dam-id="c6LLl7hNRl2oU8xsHol0TQ" width="840" height="840" alt="klimaVest Windpark Ireland.webp" dam-content-type="Image" thumbnailsrc="https://ch-ars-1.sitecoresandbox.cloud/api/gateway/96226/thumbnail" />
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "03117268-f84f-4fd8-ad9e-5990b3a21fe6"
+      Hint: Content
+      Value: |
+        <div class="ck-content"><p>With this strategic acquisition&nbsp;klimaVest is further diversifying its real asset portfolio of renewable energies i<strong>n Europe.</strong></p><p>Ireland is a very attractive location thanks to its unique and favourable wind conditions which come close to offshore environments. Wind energy is accounting for a third of the country’s power supply and has developed to an increasingly relevant contributor to Ireland’s energy mix.&nbsp;</p><p>In addition to Ireland, klimaVest holds investments in 43 solar and wind parks in Germany, Finland, Sweden, France and Spain.<br /><br />Moanvane wind farm has been developed and sold by Statkraft, Europe’s largest generator of renewable energy. Statkraft are to remain involved and will continue to provide operational management services. The site also includes an amenity trail, which is currently under construction and due for completion early next year. The 6 km trail will be open to the public and will offer a safe walking route, while integrating biodiversity measures to enhance the local eco-system.</p><p><br /><br />With the launch of klimaVest&nbsp;in 2020, Commerz Real became one of the pioneers in the field of open-ended renewable energy infrastructure funds for private investors. klimaVest&nbsp;currently has a total of 1.4 billion euros in assets under management and since its launch has been delivering steady returns independent of the stock market environment to its investors. The fund enables private investors to invest in real renewable energy projects that are essential to the transformation of the European economy.</p></div>
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{1333C7A2-2A6C-4310-AE74-8D5DE936F8B3}">
+              <p:d />
+            </r>
+            <r
+              uid="{CA2B261F-3993-46A6-87FC-E07E7863DC25}"
+              p:before="*"
+              s:ds="d4c65f03-7d05-4817-a10e-4b8e3cd925b0"
+              s:id="{3A9A9D22-C092-4B54-9511-EB202CEABE8D}"
+              s:par="GridParameters=%7B7465D855-992E-4DC2-9855-A03250DFA74B%7D&amp;ButtonStyle=Secondary&amp;FieldNames&amp;Styles&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=1"
+              s:ph="/headless-main/sxa-article-content/background-page-content-0-1">
+              <rls>
+                <ruleset
+                  s:pet="true">
+                  <rule
+                    uid="{4B900DA4-371A-4A58-AE61-D4F8C359FCD4}"
+                    s:name="cea8aa136893449ca43f1f379a2697cd">
+                    <conditions>
+                      <condition
+                        uid="919CD6EE2A5F4B92BCA10980CF9140E4"
+                        s:id="{8E7426A4-12ED-4C44-8625-E7191860E726}"
+                        s:VariantName="cea8aa136893449ca43f1f379a2697cd" />
+                    </conditions>
+                    <actions>
+                      <action
+                        uid="{1F83E671-863A-4FB6-9CD8-ED24990AA057}"
+                        s:id="{0F3C6BEC-E56B-4875-93D7-2846A75881D2}"
+                        s:DataSource="6b592560-ae91-46e7-b95c-45a9062d5c79" />
+                    </actions>
+                  </rule>
+                  <rule
+                    uid="{00000000-0000-0000-0000-000000000000}"
+                    s:name="Default">
+                    <conditions>
+                      <condition
+                        uid="A1248DD464344A1AB850B7205A61D5AA"
+                        s:id="{4888ABBB-F17D-4485-B14B-842413F88732}" />
+                    </conditions>
+                  </rule>
+                </ruleset>
+              </rls>
+            </r>
+            <r
+              uid="{7C25EFFC-6CDB-4B43-9CD4-AC44A92185A5}"
+              p:after="*[1=2]"
+              s:id="{CAA0C742-F052-49FB-825B-A03494798DB7}"
+              s:par="ComponentName=Hero&amp;ComponentConfiguration&amp;LibraryId=6Nn5COlfhSYHN2f2CeWDv5&amp;ComponentId=-FNK5pPhxj&amp;ComponentVersion=responsive&amp;ComponentRevision=staged&amp;ComponentHostName=https%3A%2F%2Ffeaas.blob.core.windows.net&amp;ComponentInstanceId=VkRoPGshcjHNGc2&amp;ComponentDataOverride&amp;ComponentHTMLOverride&amp;ComponentLabel=Hero&amp;GridParameters=%7B7465D855-992E-4DC2-9855-A03250DFA74B%7D&amp;FieldNames&amp;Styles&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=2"
+              s:ph="/headless-main/sxa-article-content/background-page-content-0-1" />
+          </d>
+        </r>
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{13D6CCE7-A6C3-4EE1-A1D9-8A8E34225ED7}"
+    - ID: "3e700dce-26eb-4bf0-990f-9d9fe555990d"
+      Hint: Excerpt
+      Value: "Commerz Real has secured a new wind farm in the Irish Midlands for its klimaVest fund. The acquisition of Moanvane wind farm in County Offaly marks the entry into the Irish renewables market for klimaVest. The wind farm has been in operation since the end of September 2024 and is located about a 90-minute drive west of Dublin. It comprises twelve Nordex turbines with an installed capacity of 57.6 megawatts (MW). The wind farm provides the fund with guaranteed remuneration based on a 15-year corporate power purchase agreement (corporate PPA)."
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: klimaVest
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "a15eda52-0067-47c7-963d-efb0e2272cfd"
+    - ID: "e81c4912-a4d2-4466-842c-02f0b2c9dc42"
+      Hint: Title
+      Value: klimaVest acquires its first wind farm in Ireland
