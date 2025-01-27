@@ -10,43 +10,6 @@
     "components": [
       {
         "libraryId": "generated",
-        "id": "bP5HBEel-b",
-        "collectionId": "EfQDdUxRmd",
-        "name": "Large teaser",
-        "description": "",
-        "status": "changed",
-        "versionCount": 1,
-        "stagedVersionCount": 1,
-        "embeddableVersionCount": 1,
-        "datasourceIds": [],
-        "createdAt": "2023-06-08T09:12:34.113Z",
-        "stagedAt": null,
-        "publishedAt": "2023-06-08T13:06:24.758Z",
-        "modifiedAt": "2025-01-23T15:14:41.66Z",
-        "modifiedBy": {
-          "id": "63f7759f1510c28ecd9cdf9f",
-          "name": "Arne Schlüter",
-          "email": "arne.schlueter@sitecore.com",
-          "picture": "https://s.gravatar.com/avatar/94b922968976a142695e1c5ea21fb619?s=480&r=pg&d=https%3A%2F%2Fcdn.auth0.com%2Favatars%2Far.png",
-          "givenName": "Arne",
-          "familyName": "Schlüter"
-        },
-        "bundles": [
-          {
-            "id": "responsive",
-            "libraryId": "generated",
-            "componentId": "bP5HBEel-b",
-            "name": "Default bundle",
-            "description": "",
-            "breakpoints": {},
-            "orderIdx": "",
-            "createdAt": "2025-01-23T15:14:41.456Z",
-            "modifiedAt": "2025-01-23T15:14:41.456Z"
-          }
-        ]
-      },
-      {
-        "libraryId": "generated",
         "id": "MCzUv9T7CV",
         "collectionId": "EfQDdUxRmd",
         "name": "Teaser",
@@ -60,6 +23,31 @@
         "stagedAt": null,
         "publishedAt": "2023-06-08T13:06:57.252Z",
         "modifiedAt": "2023-06-08T13:06:57.252Z",
+        "modifiedBy": {
+          "id": "62f3ba1cba5df761961e5a78",
+          "name": "Sintija Potaicuka",
+          "email": "sintija.potaicuka@sitecore.com",
+          "picture": "https://s.gravatar.com/avatar/377f12a848dbd6e352920bce2685c063?s=480&r=pg&d=https%3A%2F%2Fcdn.auth0.com%2Favatars%2Fsi.png",
+          "givenName": "Sintija",
+          "familyName": "Potaicuka"
+        },
+        "bundles": []
+      },
+      {
+        "libraryId": "generated",
+        "id": "bP5HBEel-b",
+        "collectionId": "EfQDdUxRmd",
+        "name": "Large teaser",
+        "description": "",
+        "status": "published",
+        "versionCount": 1,
+        "stagedVersionCount": 1,
+        "embeddableVersionCount": 2,
+        "datasourceIds": [],
+        "createdAt": "2023-06-08T09:12:34.113Z",
+        "stagedAt": null,
+        "publishedAt": "2023-06-08T13:06:24.758Z",
+        "modifiedAt": "2023-06-08T13:06:24.758Z",
         "modifiedBy": {
           "id": "62f3ba1cba5df761961e5a78",
           "name": "Sintija Potaicuka",
@@ -95,15 +83,8 @@
         "createdAt": "2023-06-08T09:27:58.572Z",
         "stagedAt": null,
         "publishedAt": "2023-06-08T14:31:06.461Z",
-        "modifiedAt": "2023-06-09T10:17:20.928Z",
-        "modifiedBy": {
-          "id": "62f3ba1cba5df761961e5a78",
-          "name": "Sintija Potaicuka",
-          "email": "sintija.potaicuka@sitecore.com",
-          "picture": "https://s.gravatar.com/avatar/377f12a848dbd6e352920bce2685c063?s=480&r=pg&d=https%3A%2F%2Fcdn.auth0.com%2Favatars%2Fsi.png",
-          "givenName": "Sintija",
-          "familyName": "Potaicuka"
-        },
+        "modifiedAt": "2025-01-27T09:20:55.781Z",
+        "modifiedBy": {},
         "bundles": []
       },
       {
@@ -138,57 +119,9 @@
     "id": "default",
     "name": "Default collection",
     "isDefault": true,
-    "orderIdx": "",
+    "orderIdx": null,
     "createdAt": "2023-06-28T12:45:53.685Z",
     "modifiedAt": "2023-06-28T12:45:53.685Z",
     "components": []
-  },
-  {
-    "libraryId": "generated",
-    "id": "w59ftNeYw6",
-    "name": "Commerz Real",
-    "isDefault": false,
-    "orderIdx": "",
-    "createdAt": "2025-01-23T15:11:30.196Z",
-    "modifiedAt": "2025-01-23T15:11:30.196Z",
-    "components": [
-      {
-        "libraryId": "generated",
-        "id": "-FNK5pPhxj",
-        "collectionId": "w59ftNeYw6",
-        "name": "Hero",
-        "description": "",
-        "status": "published",
-        "versionCount": 1,
-        "stagedVersionCount": 1,
-        "embeddableVersionCount": 1,
-        "datasourceIds": [],
-        "createdAt": "2025-01-23T15:11:41.521Z",
-        "stagedAt": "2025-01-23T15:13:01.15Z",
-        "publishedAt": "2025-01-23T15:13:01.15Z",
-        "modifiedAt": "2025-01-23T15:13:01.15Z",
-        "modifiedBy": {
-          "id": "63f7759f1510c28ecd9cdf9f",
-          "name": "Arne Schlüter",
-          "email": "arne.schlueter@sitecore.com",
-          "picture": "https://s.gravatar.com/avatar/94b922968976a142695e1c5ea21fb619?s=480&r=pg&d=https%3A%2F%2Fcdn.auth0.com%2Favatars%2Far.png",
-          "givenName": "Arne",
-          "familyName": "Schlüter"
-        },
-        "bundles": [
-          {
-            "id": "responsive",
-            "libraryId": "generated",
-            "componentId": "-FNK5pPhxj",
-            "name": "Default bundle",
-            "description": "",
-            "breakpoints": {},
-            "orderIdx": "",
-            "createdAt": "2025-01-23T15:11:47.186Z",
-            "modifiedAt": "2025-01-23T15:11:47.186Z"
-          }
-        ]
-      }
-    ]
   }
 ]
