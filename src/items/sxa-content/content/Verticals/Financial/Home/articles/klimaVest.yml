@@ -76,7 +76,7 @@ Languages:
               uid="{7C25EFFC-6CDB-4B43-9CD4-AC44A92185A5}"
               p:after="*[1=2]"
               s:id="{CAA0C742-F052-49FB-825B-A03494798DB7}"
-              s:par="ComponentName=Hero&amp;ComponentConfiguration&amp;LibraryId=48IJfosVTlhdK62QAMprDO&amp;ComponentId=-FNK5pPhxj&amp;ComponentVersion=responsive&amp;ComponentRevision=staged&amp;ComponentHostName=https://feaas.blob.core.windows.net&amp;ComponentInstanceId=VkRoPGshcjHNGc2&amp;ComponentDataOverride&amp;ComponentHTMLOverride&amp;ComponentLabel=Hero&amp;GridParameters={7465D855-992E-4DC2-9855-A03250DFA74B}&amp;FieldNames&amp;Styles&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=2"
+              s:par="ComponentName=Hero&amp;ComponentConfiguration&amp;LibraryId=4g8ejCf7XWnOC4h1gRlMkf&amp;ComponentId=-FNK5pPhxj&amp;ComponentVersion=responsive&amp;ComponentRevision=staged&amp;ComponentHostName=https://feaas.blob.core.windows.net&amp;ComponentInstanceId=VkRoPGshcjHNGc2&amp;ComponentDataOverride&amp;ComponentHTMLOverride&amp;ComponentLabel=Hero&amp;GridParameters={7465D855-992E-4DC2-9855-A03250DFA74B}&amp;FieldNames&amp;Styles&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=2"
               s:ph="/headless-main/sxa-article-content/background-page-content-0-1" />
           </d>
         </r>
@@ -91,7 +91,7 @@ Languages:
       Value: klimaVest
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "5bc08e73-4e5d-4ada-b53f-389b57c904cd"
+      Value: "63ec37dd-5147-40b0-92b2-fd53db8ec189"
     - ID: "e81c4912-a4d2-4466-842c-02f0b2c9dc42"
       Hint: Title
       Value: klimaVest acquires its first wind farm in Ireland

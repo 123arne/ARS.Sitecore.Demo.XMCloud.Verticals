@@ -4,8 +4,8 @@
   "ref": "f9786034-b812-40d3-bf3c-d815af5b2283",
   "name": "embedded_{scope}_1e0d4642355b4803aeefb3dfc6ed366a_en",
   "modifiedByRef": "UsQ4dFnLMklHuDXU8acKstHeXEC65tgU@clients",
-  "modifiedAt": "2025-01-27T09:21:03.438Z",
-  "revision": 4,
+  "modifiedAt": "2025-01-28T10:14:01.856Z",
+  "revision": 6,
   "archived": false,
   "friendlyId": "embedded_{scope}_1e0d4642355b4803aeefb3dfc6ed366a_en",
   "type": "INTERACTIVE_API_FLOW",
@@ -21,7 +21,7 @@
   "traffic": {
     "type": "audienceTraffic",
     "weightingAlgorithm": "USER_DEFINED",
-    "modifiedAt": "2025-01-27T09:21:03.465Z",
+    "modifiedAt": "2025-01-28T10:14:02.01Z",
     "splits": [
       {
         "template": "{\"variantId\": \"cea8aa136893449ca43f1f379a2697cd\"}",
@@ -46,7 +46,7 @@
   "variants": [],
   "transpiledVariants": [
     {
-      "ref": "6a9df1dd-fb24-4ae7-8e40-191ccf58ff7c",
+      "ref": "573f39bf-5470-4333-b164-2bdf76fc7530",
       "name": "VIsitor from DE",
       "tasks": [
         {
