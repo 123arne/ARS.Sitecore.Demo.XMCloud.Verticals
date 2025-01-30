@@ -35,27 +35,27 @@ Languages:
               <p:d />
             </r>
             <r
-              uid="{CA2B261F-3993-46A6-87FC-E07E7863DC25}"
+              uid="{2DA2B968-80FD-4CD6-9485-F715F14E6766}"
               p:before="*"
               s:ds="d4c65f03-7d05-4817-a10e-4b8e3cd925b0"
               s:id="{3A9A9D22-C092-4B54-9511-EB202CEABE8D}"
-              s:par="GridParameters=%7B7465D855-992E-4DC2-9855-A03250DFA74B%7D&amp;ButtonStyle=Secondary&amp;FieldNames&amp;Styles&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=1"
+              s:par="GridParameters=%7B7465D855-992E-4DC2-9855-A03250DFA74B%7D&amp;ButtonStyle=Main&amp;FieldNames&amp;Styles&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=3"
               s:ph="/headless-main/sxa-article-content/background-page-content-0-1">
               <rls>
                 <ruleset
                   s:pet="true">
                   <rule
-                    uid="{4B900DA4-371A-4A58-AE61-D4F8C359FCD4}"
-                    s:name="cea8aa136893449ca43f1f379a2697cd">
+                    uid="{FF429BEE-EA32-47D3-934A-BEBC33BBDBBD}"
+                    s:name="a72b30e092fd4142a3950c2c73023a0d">
                     <conditions>
                       <condition
-                        uid="919CD6EE2A5F4B92BCA10980CF9140E4"
+                        uid="47C6BC64A68242D19BA6207B59AA2C67"
                         s:id="{8E7426A4-12ED-4C44-8625-E7191860E726}"
-                        s:VariantName="cea8aa136893449ca43f1f379a2697cd" />
+                        s:VariantName="a72b30e092fd4142a3950c2c73023a0d" />
                     </conditions>
                     <actions>
                       <action
-                        uid="{1F83E671-863A-4FB6-9CD8-ED24990AA057}"
+                        uid="{4C3E7675-DB97-464C-9AE1-8B55285FC662}"
                         s:id="{0F3C6BEC-E56B-4875-93D7-2846A75881D2}"
                         s:DataSource="6b592560-ae91-46e7-b95c-45a9062d5c79" />
                     </actions>
@@ -65,7 +65,7 @@ Languages:
                     s:name="Default">
                     <conditions>
                       <condition
-                        uid="A1248DD464344A1AB850B7205A61D5AA"
+                        uid="D7CF3AE1B14D4F04BD64A51FA8385D2A"
                         s:id="{4888ABBB-F17D-4485-B14B-842413F88732}" />
                     </conditions>
                   </rule>
@@ -76,7 +76,7 @@ Languages:
               uid="{7C25EFFC-6CDB-4B43-9CD4-AC44A92185A5}"
               p:after="*[1=2]"
               s:id="{CAA0C742-F052-49FB-825B-A03494798DB7}"
-              s:par="ComponentName=Hero&amp;ComponentConfiguration&amp;LibraryId=4g8ejCf7XWnOC4h1gRlMkf&amp;ComponentId=-FNK5pPhxj&amp;ComponentVersion=responsive&amp;ComponentRevision=staged&amp;ComponentHostName=https://feaas.blob.core.windows.net&amp;ComponentInstanceId=VkRoPGshcjHNGc2&amp;ComponentDataOverride&amp;ComponentHTMLOverride&amp;ComponentLabel=Hero&amp;GridParameters={7465D855-992E-4DC2-9855-A03250DFA74B}&amp;FieldNames&amp;Styles&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=2"
+              s:par="ComponentName=Hero&amp;ComponentConfiguration&amp;LibraryId=3pa3YsNXOIoaQGJYHlbLqZ&amp;ComponentId=-FNK5pPhxj&amp;ComponentVersion=responsive&amp;ComponentRevision=staged&amp;ComponentHostName=https%3A%2F%2Ffeaas.blob.core.windows.net&amp;ComponentInstanceId=VkRoPGshcjHNGc2&amp;ComponentDataOverride&amp;ComponentHTMLOverride&amp;ComponentLabel=Hero&amp;GridParameters=%7B7465D855-992E-4DC2-9855-A03250DFA74B%7D&amp;FieldNames&amp;Styles&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=2"
               s:ph="/headless-main/sxa-article-content/background-page-content-0-1" />
           </d>
         </r>
@@ -91,7 +91,7 @@ Languages:
       Value: klimaVest
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "63ec37dd-5147-40b0-92b2-fd53db8ec189"
+      Value: "2e446fe9-0672-4b2a-bf71-b1c7e9ce9b76"
     - ID: "e81c4912-a4d2-4466-842c-02f0b2c9dc42"
       Hint: Title
       Value: klimaVest acquires its first wind farm in Ireland

@@ -1,0 +1,13 @@
+﻿---
+ID: "6a13b22c-718c-4761-b966-d6f0f699f9bc"
+Parent: "ec889e0f-ea0a-4490-9114-83a84249b495"
+Template: "1812bf3e-6bdd-466d-99b2-0d7cebb020fc"
+Path: "/sitecore/content/Verticals/Financial/Home/articles/beware-of-financial-online-scams/Data/Two Column CTA 1"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "0b4975f8-8f1c-47d9-8b9f-0c8b3b29e4ab"

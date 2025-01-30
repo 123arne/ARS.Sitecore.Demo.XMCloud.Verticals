@@ -1,13 +1,13 @@
 {
   "clientKey": "3509a0a2b7cc0542af1e697ea16dafe9",
-  "href": "https://api-us.boxever.com/v3/flowDefinitions/f9786034-b812-40d3-bf3c-d815af5b2283",
-  "ref": "f9786034-b812-40d3-bf3c-d815af5b2283",
-  "name": "embedded_{scope}_1e0d4642355b4803aeefb3dfc6ed366a_en",
+  "href": "https://api-us.boxever.com/v3/flowDefinitions/9aa95532-5f48-470b-b27c-dbb39c9286fa",
+  "ref": "9aa95532-5f48-470b-b27c-dbb39c9286fa",
+  "name": "embedded_{scope}_e68ae959c28344db8c7975f4854aa3e4_en",
   "modifiedByRef": "auth0|63f7759f1510c28ecd9cdf9f",
-  "modifiedAt": "2025-01-30T15:14:53.012Z",
-  "revision": 14,
+  "modifiedAt": "2025-01-30T12:12:31.905Z",
+  "revision": 5,
   "archived": false,
-  "friendlyId": "embedded_{scope}_1e0d4642355b4803aeefb3dfc6ed366a_en",
+  "friendlyId": "embedded_{scope}_e68ae959c28344db8c7975f4854aa3e4_en",
   "type": "INTERACTIVE_API_FLOW",
   "subtype": "EXPERIENCE",
   "channels": [
@@ -21,12 +21,12 @@
   "traffic": {
     "type": "audienceTraffic",
     "weightingAlgorithm": "USER_DEFINED",
-    "modifiedAt": "2025-01-30T15:14:53.161Z",
+    "modifiedAt": "2025-01-30T12:12:31.927Z",
     "splits": [
       {
-        "template": "{\"variantId\": \"a72b30e092fd4142a3950c2c73023a0d\"}",
-        "variantName": "UTM Campaign",
-        "audienceName": "UTM Campaign",
+        "template": "{\"variantId\": \"569a6f5a4c5747f3a1eff552f1020714\"}",
+        "variantName": "UTM",
+        "audienceName": "UTM",
         "conditionGroups": [
           {
             "conditions": [
@@ -47,15 +47,15 @@
   "variants": [],
   "transpiledVariants": [
     {
-      "ref": "e0f147d4-aee2-4704-9fa1-9da1194b2fe9",
-      "name": "UTM Campaign",
+      "ref": "519177cc-de54-4b1c-b439-8010b281c847",
+      "name": "UTM",
       "tasks": [
         {
           "implementation": "templateRenderTask",
           "input": {
             "inputType": "templateRenderTaskInput",
             "type": "application/json",
-            "template": "{\"variantId\": \"a72b30e092fd4142a3950c2c73023a0d\"}"
+            "template": "{\"variantId\": \"569a6f5a4c5747f3a1eff552f1020714\"}"
           }
         },
         {
@@ -80,10 +80,10 @@
   "status": "PRODUCTION",
   "schedule": {
     "type": "simpleSchedule",
-    "startDate": "2025-01-23T15:04:47.725Z"
+    "startDate": "2025-01-30T12:09:50.643Z"
   },
   "revisions": {
-    "href": "https://api-us.boxever.com/v3/flowDefinitions/f9786034-b812-40d3-bf3c-d815af5b2283/revisions"
+    "href": "https://api-us.boxever.com/v3/flowDefinitions/9aa95532-5f48-470b-b27c-dbb39c9286fa/revisions"
   },
   "sampleSizeConfig": {
     "baseValue": 0.15,

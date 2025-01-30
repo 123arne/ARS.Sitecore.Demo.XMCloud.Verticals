@@ -1,0 +1,13 @@
+﻿---
+ID: "7a9496b2-332b-4e3a-b5be-95389400896d"
+Parent: "2c07334c-35eb-4fc0-913e-559cb864ef5f"
+Template: "1812bf3e-6bdd-466d-99b2-0d7cebb020fc"
+Path: /sitecore/content/Verticals/Financial/Home/articles/klimaVest/Data/Two Column CTA 2
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "3bdb6fe7-4f83-4626-8b1f-4dc036a21a94"
